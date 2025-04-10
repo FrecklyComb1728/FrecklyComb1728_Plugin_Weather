@@ -6,7 +6,7 @@ import httpx
 import logging
 import json
 
-@register(name="Weather", description="天气查询插件", version="0.1", author="RockChinQ")
+@register(name="Weather", description="Langbot天气查询插件", version="1", author="FrecklyComb1728")
 class WeatherPlugin(BasePlugin):
 
     def __init__(self, host: APIHost):
