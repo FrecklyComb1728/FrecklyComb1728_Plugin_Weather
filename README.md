@@ -1,10 +1,9 @@
-```markdown
 # Langbot天气查询插件
 
-## 安装说明
+## 安装
+
 # 在QChatGPT主程序配置完成后，使用管理员账号向机器人发送：
 !plugin get https://github.com/FrecklyComb1728/Langbot_Weather
-```
 
 ## 🌟 核心功能
 
