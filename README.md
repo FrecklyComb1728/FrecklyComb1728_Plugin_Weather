@@ -53,4 +53,4 @@
 
 ## 感谢
 本插件基于zzseki的QChatGPT_Plugin_Weather修改而来
-[![QChatGPT_Plugin_Weather](https://socialify.git.ci/zzseki/QChatGPT_Plugin_Weather/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)]
+![QChatGPT_Plugin_Weather](https://socialify.git.ci/zzseki/QChatGPT_Plugin_Weather/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
